@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  font-family: "Hiragino Sans", "Noto Sans JP", sans-serif;
+  background: #f7f5f0;
+  color: #1f2433;
+}
+
+main {
+  max-width: 640px;
+  margin: 64px auto;
+  padding: 0 16px;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #c2551b;
+}
+
+.lead {
+  color: #4a5060;
+}
+
+.card {
+  background: #ffffff;
+  border: 1px solid #e3dfd6;
+  border-radius: 12px;
+  padding: 16px 24px;
+}
